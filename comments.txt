@@ -1,0 +1,6 @@
+I am submitting short version.
+
+My flushKeyboard Function is based off of the one fardad showed us in class.
+
+enhancements
+I have completed both searchName() and delItem() bonus functions please have a look.
